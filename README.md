@@ -1,0 +1,2 @@
+# trainingTaskpublic
+public repository
